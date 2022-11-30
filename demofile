@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="//th.bing.com/th/id/OIP.pUIfvyytDsDYyHvkbQZYCwHaE8?w=267&h=180&c=7&r=0&o=5&pid=1.7">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Farmer</h1>
+    <img src="https://th.bing.com/th/id/OIP.pUIfvyytDsDYyHvkbQZYCwHaE8?w=267&h=180&c=7&r=0&o=5&pid=1.7" alt="farmers">
+    <p>Farmer technologists</p>
+        <ul>
+            <li>cotten</li>
+            <li>canesuger</li>
+        </ul>
+    ><p>
+        Indian Farmer. The Indian farmer is a living idol of India,
+        they are the most hardworking farmers around the world & always busy, working hard for their crops,
+        during day and night. India is called the land of farmers,
+        as most of the people of the country are directly or indirectly involved in the agriculture sector.</p>
+        <p>To Know about us, visit <a href="https://gupshups.org/indian-farmer/">farmer</a>
+            to learn even more about our mission i.e <strong>Employablity to all </strong>.</div></p>
+</body>
+</html>
+<style>
+    html{
+        font-size: 14px;
+        font-family: 'Open Sans',sans-serif;
+    }
+    html{
+        background-color: bisque;
+    }
+    body{
+        width: 600px;
+        margin: 0 auto;
+        background-color: azure;
+        padding: 0 20px 20px 20px;
+        border: 5px solid black;
+    }
+    h1{
+        font-size: 60px;
+        text-align: center;
+
+    }
+    h1{
+        margin: 0;
+        padding: 20px 0;
+        color: antiquewhite;
+        text-shadow: 3px 3px 1px black;
+    }
+    img{
+        display: block;
+        margin: 0 auto;
+    }
+    p, li{
+        font-size: 16px;
+        line-height: 2;
+        letter-spacing: 1px;
+    }
+</style>
